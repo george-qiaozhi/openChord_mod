@@ -1,0 +1,5 @@
+java -cp build/classes/:config/ de.uniba.wiai.lspi.chord.console.Main 
+
+
+
+insert -node n1 -key /home/george/coding/zfec/ -value output.0_8.dat
